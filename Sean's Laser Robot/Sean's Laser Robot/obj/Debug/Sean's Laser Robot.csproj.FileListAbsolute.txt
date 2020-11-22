@@ -1,0 +1,10 @@
+C:\Users\seanm\source\repos\Sean's Laser Robot\Sean's Laser Robot\bin\Debug\Sean's Laser Robot.exe.config
+C:\Users\seanm\source\repos\Sean's Laser Robot\Sean's Laser Robot\bin\Debug\Sean's Laser Robot.exe
+C:\Users\seanm\source\repos\Sean's Laser Robot\Sean's Laser Robot\bin\Debug\Sean's Laser Robot.pdb
+C:\Users\seanm\source\repos\Sean's Laser Robot\Sean's Laser Robot\obj\Debug\Sean's Laser Robot.csprojAssemblyReference.cache
+C:\Users\seanm\source\repos\Sean's Laser Robot\Sean's Laser Robot\obj\Debug\Sean_s_Laser_Robot.Form1.resources
+C:\Users\seanm\source\repos\Sean's Laser Robot\Sean's Laser Robot\obj\Debug\Sean_s_Laser_Robot.Properties.Resources.resources
+C:\Users\seanm\source\repos\Sean's Laser Robot\Sean's Laser Robot\obj\Debug\Sean's Laser Robot.csproj.GenerateResource.cache
+C:\Users\seanm\source\repos\Sean's Laser Robot\Sean's Laser Robot\obj\Debug\Sean's Laser Robot.csproj.CoreCompileInputs.cache
+C:\Users\seanm\source\repos\Sean's Laser Robot\Sean's Laser Robot\obj\Debug\Sean's Laser Robot.exe
+C:\Users\seanm\source\repos\Sean's Laser Robot\Sean's Laser Robot\obj\Debug\Sean's Laser Robot.pdb
